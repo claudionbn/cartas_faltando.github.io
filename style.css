@@ -12,6 +12,10 @@ header {
 }
 
 header img {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
     width: 150px;
     max-width: 80%;
     border-radius: 20px;
